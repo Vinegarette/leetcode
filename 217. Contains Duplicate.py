@@ -7,4 +7,5 @@ class Solution:
             else:
                 mp[num] = 1
         return False
-        
+        # Troll solution...
+        # return True if len(set(nums)) < len(nums) else False
